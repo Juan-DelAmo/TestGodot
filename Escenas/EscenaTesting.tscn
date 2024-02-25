@@ -1,7 +1,6 @@
-[gd_scene load_steps=7 format=3 uid="uid://gaw37b0gxovv"]
+[gd_scene load_steps=6 format=3 uid="uid://gaw37b0gxovv"]
 
 [ext_resource type="Script" path="res://ScriptJugador/movimiento.gd" id="1_rc3ef"]
-[ext_resource type="ArrayMesh" uid="uid://bqx3lchcycauv" path="res://Modelos/lucero.obj" id="2_cbjya"]
 
 [sub_resource type="CapsuleMesh" id="CapsuleMesh_wjarh"]
 
@@ -44,7 +43,3 @@ shape = SubResource("ConvexPolygonShape3D_ylq42")
 
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.396347, 27.522, -10.4626)
-
-[node name="Lucero" type="MeshInstance3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.3777, -0.0825748, 3.22363)
-mesh = ExtResource("2_cbjya")

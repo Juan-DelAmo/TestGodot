@@ -1,9 +1,0 @@
-ea4bc82a6ad023ab7ee23ee620429895
-::res://::1708891117
-icon.svg::CompressedTexture2D::2677647998512856838::1708890641::1708890769::1::::<><>::
-::res://Escenas/::1708891112
-EscenaTesting.tscn::PackedScene::422520521335227151::1708891112::0::1::::<><>::res://ScriptJugador/movimiento.gd<>uid://bqx3lchcycauv::::res://Modelos/lucero.obj
-::res://Modelos/::1708891084
-lucero.obj::Mesh::3558642705758762317::1708890931::1708890931::1::::<><>::
-::res://ScriptJugador/::1708890641
-movimiento.gd::GDScript::-1::1708890641::0::1::::<>Node3D<>::
