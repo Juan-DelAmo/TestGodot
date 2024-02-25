@@ -14,3 +14,7 @@ config/name="Testing"
 run/main_scene="res://Escenas/EscenaTesting.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
+
+[filesystem]
+
+import/fbx/enabled=false
